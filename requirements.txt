@@ -1,0 +1,12 @@
+openai
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
+censusdata
+azureml-core
+azure-ai-ml
+mltable
+azure-identity
+
